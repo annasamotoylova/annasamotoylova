@@ -10,7 +10,7 @@
 
 Мое жизненное кредо: Дорогу осилит идущий!
 
-**Стек: **
+**Стек:**
 
 - Python, Pandas, Numpy, Matplotlib, SciPy, 
 - SQL,
