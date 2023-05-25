@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**annasamotoylova/annasamotoylova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Меня зовут Анна 🙋
 Я начинающий аналитик данных.
 Ранее работала в сфере бизнес-обучения и управления персоналом.
